@@ -10,6 +10,8 @@
 ![DFMA](https://img.shields.io/badge/DFMA-0A66C2?style=for-the-badge)
 ![Windchill](https://img.shields.io/badge/Windchill-74ACDF?style=for-the-badge)
 
+</div>
+
 Mechanical Design Engineer with **7+ years of engineering experience**, specializing in Product Design, UAV Structures, Mechanical Assemblies, and Product Development.
 
 ---
