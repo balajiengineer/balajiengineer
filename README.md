@@ -1,16 +1,55 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**balajiengineer/balajiengineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Balaji Jegan Maheshwaran T
 
-Here are some ideas to get you started:
+### Mechanical Design Engineer | UAV Structures | Product Development | CAD | GD&T | DFMA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mechanical Design Engineer with **7+ years of engineering experience**, specializing in Product Design, UAV Structures, Mechanical Assemblies, and Product Development.
+
+---
+
+## 🛠️ Core Skills
+
+Creo Parametric • SolidWorks • CATIA V5 • Siemens NX • AutoCAD • Windchill PLM • GD&T • DFMA • Product Design • Engineering Drawings
+
+---
+
+## 📂 Portfolio
+
+📄 Resume
+
+🏆 Professional Certifications
+
+🚀 Industrial Projects
+
+🎓 Academic Projects
+
+📐 CAD Portfolio
+
+📚 Mechanical Engineering Notes
+
+---
+
+## 🌱 Currently Learning
+
+• Python
+
+• CAD Automation
+
+• ANSYS Mechanical
+
+• Design Optimization
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **balaji.jegant@outlook.com**
+
+💼 LinkedIn: **https://linkedin.com/in/balajiengineer**
+
+---
+
+⭐ Thank you for visiting my GitHub profile.
+
+</div>
