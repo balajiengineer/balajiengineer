@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ Balaji Jegan Maheshwaran T
+#   Balaji Jegan Maheshwaran T
 
 ### Mechanical Design Engineer | UAV | Aerospace | Product Development
 
