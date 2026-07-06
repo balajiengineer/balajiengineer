@@ -1,8 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Balaji Jegan Maheshwaran T
+# ⚙️ Balaji Jegan Maheshwaran T
 
-### Mechanical Design Engineer | UAV Structures | Product Development | CAD | GD&T | DFMA
+### Mechanical Design Engineer | UAV | Aerospace | Product Development
+
+![Mechanical Design](https://img.shields.io/badge/Mechanical%20Design-74ACDF?style=for-the-badge)
+![Creo](https://img.shields.io/badge/Creo-0A66C2?style=for-the-badge)
+![GD&T](https://img.shields.io/badge/GD%26T-74ACDF?style=for-the-badge)
+![DFMA](https://img.shields.io/badge/DFMA-0A66C2?style=for-the-badge)
+![Windchill](https://img.shields.io/badge/Windchill-74ACDF?style=for-the-badge)
 
 Mechanical Design Engineer with **7+ years of engineering experience**, specializing in Product Design, UAV Structures, Mechanical Assemblies, and Product Development.
 
