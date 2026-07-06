@@ -16,16 +16,6 @@ Creo Parametric • SolidWorks • CATIA V5 • Siemens NX • AutoCAD • Windc
 
 ## 📂 Portfolio
 
-📄 Resume
-
-🏆 Professional Certifications
-
-🚀 Industrial Projects
-
-🎓 Academic Projects
-
-📐 CAD Portfolio
-
 
 Explore my engineering work through the repositories below:
 
