@@ -26,7 +26,25 @@ Creo Parametric • SolidWorks • CATIA V5 • Siemens NX • AutoCAD • Windc
 
 📐 CAD Portfolio
 
-📚 Mechanical Engineering Notes
+
+Explore my engineering work through the repositories below:
+
+- 📄 **[Resume](https://github.com/balajiengineer/Resume)**  
+  Professional resume and career profile.
+
+- 🏆 **[Certificates](https://github.com/balajiengineer/Certificates)**  
+  Professional certifications and technical achievements.
+
+- 🚀 **[Industrial Projects](https://github.com/balajiengineer/Industrial-Projects)**  
+  Industrial automation, aerospace, product design and engineering assessment projects.
+
+- 🎓 **[Academic Projects](https://github.com/balajiengineer/Academic-Projects)**  
+  Engineering projects completed during Diploma and Bachelor's degree.
+
+- 📐 **[CAD Portfolio](https://github.com/balajiengineer/CAD-Portfolio)**  
+  CAD modelling, assemblies, engineering drawings and product development portfolio.
+
+
 
 ---
 
